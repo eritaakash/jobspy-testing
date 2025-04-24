@@ -2,7 +2,7 @@ from jobspy import scrape_jobs
 import pandas as pd 
 
 proxies = {
-    'https': 'http://104.219.171.245:50100'
+    'https': 'https://spkouufdnm:GyQi=2Xz1oM5m8mzyj@isp.decodo.com:10000'
 }
 
 def get_jobs():
