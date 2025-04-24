@@ -1,0 +1,632 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type
+in-beb9b254b4b884d4,indeed,https://www.indeed.com/viewjob?jk=beb9b254b4b884d4,https://lifeattiktok.com/search/7496617400869030152,"Senior Frontend Software Engineer, Content and Creators",TikTok,"San Jose, CA, US",2025-04-24,,direct_data,yearly,194000.0,355000.0,USD,False,,,,,"Responsibilities
+
+
+About the team TikTok's PGC (Professional Generated Content) team sits at the heart of TikTok's core experience, powering the creator and content engine that brings the unique magic behind the TikTok For You Page. We are a cross\-functional group spanning engineering, product, data science, recommendation systems, design, marketing, and operations. Our mission is to inspire professional creativity and enrich the world with content. With a data\-driven approach, we build tools and experiences that improve the creator journey — helping creators unlock their talent, grow their audience, and build sustainable careers on TikTok — while driving growth in content diversity and quality across the TikTok ecosystem. We build the overarching experience of TikTok Studio, the official storefront for creators across platforms. We build the TikTok Studio app — developed using Lynx (https://github.com/lynx\-family/lynx) — go check it out on your app store and send us feedback! On the web, we build the desktop experience of TikTok Studio (https://www.tiktok.com/tiktokstudio) that provides AI\-powered video creation and editing tools in your browser. And of course, the TikTok Studio entry point on your profile page, that brings a powerful suite of creator tools integrated within the main app experience. Beyond these surfaces, our team develops core features such as AI\-powered creator analytics, the Creator Inspirations feed, the Creator AI Assistant chatbot, the TikTok Creativity Rewards Program, creator subscriptions, educational tools and services, campaign infrastructure — all spanning multiple platforms and technologies, with many more cool experiences on the way! In addition, we serve as gatekeepers of TikTok's content ecosystem. By leveraging genAI and LLMs, we build agents to define content policies, train models, develop platforms, and monitor the vast stream of content pools. Our agentic systems establish a data\-driven understanding of the relationship between creators, content, and users — ensuring that harmful content is shielded from our audience while protecting creators from being unfairly penalized, surfacing new insights and opportunities for the business while empowering recommendation, operations, and product teams to continuously improve content diversity and quality on TikTok. Join us if you are passionate about shaping the future of the content and creator ecosystem on TikTok! As a member of TikTok PGC team, you will: \- Collaborate closely with product managers and designers to build high\-quality, performant, and maintainable user experiences and platforms for the products mentioned above; \- Use generative AI/LLMs to build AI agents, develop content understanding and moderation systems, and build code generation solutions for consumer\-facing pages and internal platforms; \- Learn how TikTok core products work, and discover the magic underlying systems that power the fastest\-growing platform on the planet; \- Learn and grow from working alongside colleagues, adopting the latest technologies, and solving complex industry challenges; \- Help evolve and scale our team with your expertise, experience, and perspectives.
+
+
+Qualifications
+
+
+Minimum Qualifications: \- Bachelor's degree in Computer Science or related major; \- 5\+ years of industry experience in software development; \- Proficiency in JavaScript, ES5/6, CSS, DOM, and building modern layouts; \- Solid grasp of component\-based development principles; hands\-on experience with frameworks such as React, Angular or Vue; \- Practical experience working with genAI/LLM systems, AI agents, and related data processing workflows; Preferred Qualifications: \- Master's degree in Computer Science or related major; \- Experience in solving CSS/JS multi\-browser compatibility issues and performance optimization; \- Familiarity with build tools and CI/CD workflows; \- Knowledge of data analysis, backend systems, or native mobile development is a plus;
+
+
+Job Information
+
+
+【For Pay Transparency】Compensation Description (Annually)
+
+  
+
+ The base salary range for this position in the selected city is $194000 \- $355000 annually.  
+
+
+
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.  
+
+
+
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short\-term and long\-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).  
+
+
+
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.  
+
+
+
+For Los Angeles County (unincorporated) Candidates:  
+
+
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:  
+
+
+
+1\. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;  
+
+
+
+2\. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and  
+
+
+
+3\. Exercising sound judgment.  
+
+
+
+About TikTok
+
+  
+
+ TikTok is the leading destination for short\-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.  
+
+
+
+Why Join Us
+
+  
+
+ Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy \- a mission we work towards every day.  
+
+
+
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an ""Always Day 1"" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.  
+
+
+
+Diversity \& Inclusion  
+
+
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.  
+
+
+
+TikTok Accommodation
+
+  
+
+ TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at
+ https://tinyurl.com/RA\-request",,https://www.indeed.com/cmp/Tiktok,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/83b6323a8116bb3e0e44be12781095c5,https://www.tiktok.com/,"Los Angeles, CA","10,000+",Decline to state,TikTok is a destination for short-form mobile videos.,,,,,,
+in-096e1cca71d3a10c,indeed,https://www.indeed.com/viewjob?jk=096e1cca71d3a10c,https://lifeattiktok.com/search/7496617903296547079,"Fullstack Software Engineer - Generative AI and LLMs, PGC",TikTok,"San Jose, CA, US",2025-04-24,,direct_data,yearly,119000.0,177000.0,USD,False,,,,,"Responsibilities
+
+
+About the team TikTok's PGC (Professional Generated Content) team sits at the heart of TikTok's core experience, powering the creator and content engine that brings the unique magic behind the TikTok For You Page. We are a cross\-functional group spanning engineering, product, data science, recommendation systems, design, marketing, and operations. Our mission is to inspire professional creativity and enrich the world with content. With a data\-driven approach, we build tools and experiences that improve the creator journey — helping creators unlock their talent, grow their audience, and build sustainable careers on TikTok — while driving growth in content diversity and quality across the TikTok ecosystem. We build the overarching experience of TikTok Studio, the official storefront for creators across platforms. We build the TikTok Studio app — developed using Lynx (https://github.com/lynx\-family/lynx) — go check it out on your app store and send us feedback! On the web, we build the desktop experience of TikTok Studio (https://www.tiktok.com/tiktokstudio) that provides AI\-powered video creation and editing tools in your browser. And of course, the TikTok Studio entry point on your profile page, that brings a powerful suite of creator tools integrated within the main app experience. Beyond these surfaces, our team develops core features such as AI\-powered creator analytics, the Creator Inspirations feed, the Creator AI Assistant chatbot, the TikTok Creativity Rewards Program, creator subscriptions, educational tools and services, campaign infrastructure — all spanning multiple platforms and technologies, with many more cool experiences on the way! In addition, we serve as gatekeepers of TikTok's content ecosystem. By leveraging genAI and LLMs, we build agents to define content policies, train models, develop platforms, and monitor the vast stream of content pools. Our agentic systems establish a data\-driven understanding of the relationship between creators, content, and users — ensuring that harmful content is shielded from our audience while protecting creators from being unfairly penalized, surfacing new insights and opportunities for the business while empowering recommendation, operations, and product teams to continuously improve content diversity and quality on TikTok. Join us if you are passionate about shaping the future of the content and creator ecosystem on TikTok! As a member of TikTok PGC team, you will: \- Collaborate closely with product managers and designers to build high\-quality, performant, and maintainable user experiences and platforms for the products mentioned above; \- Use generative AI/LLMs to build AI agents, develop content understanding and moderation systems, and build code generation solutions for consumer\-facing pages and internal platforms; \- Learn how TikTok core products work, and discover the magic underlying systems that power the fastest\-growing platform on the planet; \- Learn and grow from working alongside colleagues, adopting the latest technologies, and solving complex industry challenges; \- Help evolve and scale our team with your expertise, experience, and perspectives.
+
+
+Qualifications
+
+
+Minimum Qualifications: \- Bachelor's degree in Computer Science or related major; \- Proficiency in JavaScript, ES5/6, CSS, DOM, and building modern layouts; \- Solid grasp of component\-based development principles; hands\-on experience with frameworks such as React, Angular or Vue; \- Practical experience working with genAI/LLM systems, AI agents, and related data processing workflows; Preferred Qualifications: \- Master's degree in Computer Science or related major; \- Experience in solving CSS/JS multi\-browser compatibility issues and performance optimization; \- Familiarity with build tools and CI/CD workflows; \- Knowledge of data analysis, backend systems, or native mobile development is a plus;
+
+
+Job Information
+
+
+【For Pay Transparency】Compensation Description (Annually)
+
+  
+
+ The base salary range for this position in the selected city is $119000 \- $177000 annually.  
+
+
+
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.  
+
+
+
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short\-term and long\-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).  
+
+
+
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.  
+
+
+
+For Los Angeles County (unincorporated) Candidates:  
+
+
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:  
+
+
+
+1\. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;  
+
+
+
+2\. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and  
+
+
+
+3\. Exercising sound judgment.  
+
+
+
+About TikTok
+
+  
+
+ TikTok is the leading destination for short\-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.  
+
+
+
+Why Join Us
+
+  
+
+ Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy \- a mission we work towards every day.  
+
+
+
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an ""Always Day 1"" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.  
+
+
+
+Diversity \& Inclusion  
+
+
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.  
+
+
+
+TikTok Accommodation
+
+  
+
+ TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at
+ https://tinyurl.com/RA\-request",,https://www.indeed.com/cmp/Tiktok,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/83b6323a8116bb3e0e44be12781095c5,https://www.tiktok.com/,"Los Angeles, CA","10,000+",Decline to state,TikTok is a destination for short-form mobile videos.,,,,,,
+in-c828835b251a0300,indeed,https://www.indeed.com/viewjob?jk=c828835b251a0300,https://lifeattiktok.com/search/7496612519487080712,"Senior Fullstack Software Engineer - Generative AI and LLMs, PGC",TikTok,"San Jose, CA, US",2025-04-24,,direct_data,yearly,194000.0,355000.0,USD,False,,,,,"Responsibilities
+
+
+About the team TikTok's PGC (Professional Generated Content) team sits at the heart of TikTok's core experience, powering the creator and content engine that brings the unique magic behind the TikTok For You Page. We are a cross\-functional group spanning engineering, product, data science, recommendation systems, design, marketing, and operations. Our mission is to inspire professional creativity and enrich the world with content. With a data\-driven approach, we build tools and experiences that improve the creator journey — helping creators unlock their talent, grow their audience, and build sustainable careers on TikTok — while driving growth in content diversity and quality across the TikTok ecosystem. We build the overarching experience of TikTok Studio, the official storefront for creators across platforms. We build the TikTok Studio app — developed using Lynx (https://github.com/lynx\-family/lynx) — go check it out on your app store and send us feedback! On the web, we build the desktop experience of TikTok Studio (https://www.tiktok.com/tiktokstudio) that provides AI\-powered video creation and editing tools in your browser. And of course, the TikTok Studio entry point on your profile page, that brings a powerful suite of creator tools integrated within the main app experience. Beyond these surfaces, our team develops core features such as AI\-powered creator analytics, the Creator Inspirations feed, the Creator AI Assistant chatbot, the TikTok Creativity Rewards Program, creator subscriptions, educational tools and services, campaign infrastructure — all spanning multiple platforms and technologies, with many more cool experiences on the way! In addition, we serve as gatekeepers of TikTok's content ecosystem. By leveraging genAI and LLMs, we build agents to define content policies, train models, develop platforms, and monitor the vast stream of content pools. Our agentic systems establish a data\-driven understanding of the relationship between creators, content, and users — ensuring that harmful content is shielded from our audience while protecting creators from being unfairly penalized, surfacing new insights and opportunities for the business while empowering recommendation, operations, and product teams to continuously improve content diversity and quality on TikTok. Join us if you are passionate about shaping the future of the content and creator ecosystem on TikTok! As a member of TikTok PGC team, you will: \- Collaborate closely with product managers and designers to build high\-quality, performant, and maintainable user experiences and platforms for the products mentioned above; \- Use generative AI/LLMs to build AI agents, develop content understanding and moderation systems, and build code generation solutions for consumer\-facing pages and internal platforms; \- Learn how TikTok core products work, and discover the magic underlying systems that power the fastest\-growing platform on the planet; \- Learn and grow from working alongside colleagues, adopting the latest technologies, and solving complex industry challenges; \- Help evolve and scale our team with your expertise, experience, and perspectives.
+
+
+Qualifications
+
+
+Minimum Qualifications: \- Bachelor's degree in Computer Science or related major; \- 5\+ years of industry experience in software development; \- Proficiency in JavaScript, ES5/6, CSS, DOM, and building modern layouts; \- Solid grasp of component\-based development principles; hands\-on experience with frameworks such as React, Angular or Vue; \- Practical experience working with genAI/LLM systems, AI agents, and related data processing workflows; Preferred Qualifications: \- Master's degree in Computer Science or related major; \- Experience in solving CSS/JS multi\-browser compatibility issues and performance optimization; \- Familiarity with build tools and CI/CD workflows; \- Knowledge of data analysis, backend systems, or native mobile development is a plus;
+
+
+Job Information
+
+
+【For Pay Transparency】Compensation Description (Annually)
+
+  
+
+ The base salary range for this position in the selected city is $194000 \- $355000 annually.  
+
+
+
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.  
+
+
+
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short\-term and long\-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).  
+
+
+
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.  
+
+
+
+For Los Angeles County (unincorporated) Candidates:  
+
+
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:  
+
+
+
+1\. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;  
+
+
+
+2\. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and  
+
+
+
+3\. Exercising sound judgment.  
+
+
+
+About TikTok
+
+  
+
+ TikTok is the leading destination for short\-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.  
+
+
+
+Why Join Us
+
+  
+
+ Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy \- a mission we work towards every day.  
+
+
+
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an ""Always Day 1"" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.  
+
+
+
+Diversity \& Inclusion  
+
+
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.  
+
+
+
+TikTok Accommodation
+
+  
+
+ TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at
+ https://tinyurl.com/RA\-request",,https://www.indeed.com/cmp/Tiktok,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/83b6323a8116bb3e0e44be12781095c5,https://www.tiktok.com/,"Los Angeles, CA","10,000+",Decline to state,TikTok is a destination for short-form mobile videos.,,,,,,
+in-aa045d2e1fd8b4f1,indeed,https://www.indeed.com/viewjob?jk=aa045d2e1fd8b4f1,https://lifeattiktok.com/search/7496616715774609682,"Frontend Software Engineer, Content and Creators",TikTok,"San Jose, CA, US",2025-04-24,,direct_data,yearly,119000.0,177000.0,USD,False,,,,,"Responsibilities
+
+
+About the team TikTok's PGC (Professional Generated Content) team sits at the heart of TikTok's core experience, powering the creator and content engine that brings the unique magic behind the TikTok For You Page. We are a cross\-functional group spanning engineering, product, data science, recommendation systems, design, marketing, and operations. Our mission is to inspire professional creativity and enrich the world with content. With a data\-driven approach, we build tools and experiences that improve the creator journey — helping creators unlock their talent, grow their audience, and build sustainable careers on TikTok — while driving growth in content diversity and quality across the TikTok ecosystem. We build the overarching experience of TikTok Studio, the official storefront for creators across platforms. We build the TikTok Studio app — developed using Lynx (https://github.com/lynx\-family/lynx) — go check it out on your app store and send us feedback! On the web, we build the desktop experience of TikTok Studio (https://www.tiktok.com/tiktokstudio) that provides AI\-powered video creation and editing tools in your browser. And of course, the TikTok Studio entry point on your profile page, that brings a powerful suite of creator tools integrated within the main app experience. Beyond these surfaces, our team develops core features such as AI\-powered creator analytics, the Creator Inspirations feed, the Creator AI Assistant chatbot, the TikTok Creativity Rewards Program, creator subscriptions, educational tools and services, campaign infrastructure — all spanning multiple platforms and technologies, with many more cool experiences on the way! In addition, we serve as gatekeepers of TikTok's content ecosystem. By leveraging genAI and LLMs, we build agents to define content policies, train models, develop platforms, and monitor the vast stream of content pools. Our agentic systems establish a data\-driven understanding of the relationship between creators, content, and users — ensuring that harmful content is shielded from our audience while protecting creators from being unfairly penalized, surfacing new insights and opportunities for the business while empowering recommendation, operations, and product teams to continuously improve content diversity and quality on TikTok. Join us if you are passionate about shaping the future of the content and creator ecosystem on TikTok! As a member of TikTok PGC team, you will: \- Collaborate closely with product managers and designers to build high\-quality, performant, and maintainable user experiences and platforms for the products mentioned above; \- Use generative AI/LLMs to build AI agents, develop content understanding and moderation systems, and build code generation solutions for consumer\-facing pages and internal platforms; \- Learn how TikTok core products work, and discover the magic underlying systems that power the fastest\-growing platform on the planet; \- Learn and grow from working alongside colleagues, adopting the latest technologies, and solving complex industry challenges; \- Help evolve and scale our team with your expertise, experience, and perspectives.
+
+
+Qualifications
+
+
+Minimum Qualifications: \- Bachelor's degree in Computer Science or related major; \- Proficiency in JavaScript, ES5/6, CSS, DOM, and building modern layouts; \- Solid grasp of component\-based development principles; hands\-on experience with frameworks such as React, Angular or Vue; \- Practical experience working with genAI/LLM systems, AI agents, and related data processing workflows; Preferred Qualifications: \- Master's degree in Computer Science or related major; \- Experience in solving CSS/JS multi\-browser compatibility issues and performance optimization; \- Familiarity with build tools and CI/CD workflows; \- Knowledge of data analysis, backend systems, or native mobile development is a plus;
+
+
+Job Information
+
+
+【For Pay Transparency】Compensation Description (Annually)
+
+  
+
+ The base salary range for this position in the selected city is $119000 \- $177000 annually.  
+
+
+
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.  
+
+
+
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short\-term and long\-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).  
+
+
+
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.  
+
+
+
+For Los Angeles County (unincorporated) Candidates:  
+
+
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:  
+
+
+
+1\. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;  
+
+
+
+2\. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and  
+
+
+
+3\. Exercising sound judgment.  
+
+
+
+About TikTok
+
+  
+
+ TikTok is the leading destination for short\-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.  
+
+
+
+Why Join Us
+
+  
+
+ Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy \- a mission we work towards every day.  
+
+
+
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an ""Always Day 1"" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.  
+
+
+
+Diversity \& Inclusion  
+
+
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.  
+
+
+
+TikTok Accommodation
+
+  
+
+ TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at
+ https://tinyurl.com/RA\-request",,https://www.indeed.com/cmp/Tiktok,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/83b6323a8116bb3e0e44be12781095c5,https://www.tiktok.com/,"Los Angeles, CA","10,000+",Decline to state,TikTok is a destination for short-form mobile videos.,,,,,,
+in-3ff45a07c80ada1e,indeed,https://www.indeed.com/viewjob?jk=3ff45a07c80ada1e,https://grnh.se/c182b9794us,Sr. Software Engineer (Back End / Machine Learning),PlayStation,"San Mateo, CA, US",2025-04-24,,direct_data,yearly,187700.0,281500.0,USD,False,,,,,"**Why PlayStation?**
+
+
+
+PlayStation isn't just the Best Place to Play — it's also the Best Place to Work. Today, we're recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more.
+
+
+
+PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.
+
+
+
+The PlayStation brand falls under Sony Interactive Entertainment, a wholly\-owned subsidiary of Sony Group Corporation.
+
+
+At PlayStation, we are in search of a highly motivated Sr Software Engineer (Back End with ML Experience) to join our innovative team in San Mateo, CA! This is a ground\-breaking opportunity to contribute in building exceptional gaming experiences using powerful computer vision and AI technologies in a dynamic, fast\-paced environment. Be part of our ambitious team to explore new technologies and deliver world\-class gaming experiences!
+
+
+**Responsibilities:**
+---------------------
+
+
+* Design, implement, and maintain RESTful Web Services API and algorithms
+* Build, train, test, and deploy ML models
+* You are expected to develop innovative algorithms to solve novel problems, make technology choices, prototype solutions and bring them to production
+* Collaborate with team members to deliver features on time, respond to evolving requirements, and adapt to strategic shifts in direction
+* Produce detailed design and architecture documentation
+* Apply Agile/Scrum software development methodology to ensure flawless execution
+
+**Qualifications**
+------------------
+
+
+* 6\+ years of proven design and programming experience in Python developing highly scalable web server applications based on object\-oriented design patterns and powered by NoSQL data stores on Amazon Web Services (AWS) and/or Google Cloud Platform (GCP)
+* Experience in Machine Learning and Computer Vision programming, with a solid understanding of computer architecture and performance
+* Deep Learning framework experience with PyTorch or TensorFlow
+* Knowledge of DevOps practices, containerization, and tools such as Docker and Kubernetes
+* Familiarity with Computer Vision, Graphics, and/or Game Engines is a plus
+* Bachelor's degree in computer science or equivalent experience
+
+**Equal Opportunity Statement:**
+--------------------------------
+
+
+
+Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to race, color, religion, gender, pregnancy, national origin, ancestry, citizenship, age, legally protected physical or mental disability, covered veteran status, status in the U.S. uniformed services, sexual orientation, marital status, genetic information, or membership in any other legally protected category.
+
+
+
+We also understand that you may not apply for a job unless you meet every listed qualification. If you think you might be a good fit, but aren't sure if you ""check every box"", please apply anyway. We know that dedicated and proficient team members come from diverse sets of backgrounds that may seem ""non\-standard"" — and we encourage that! We also provide an excellent mentorship program to help level up those skills by pairing you up with someone who can help you reach your goals.
+
+
+
+If you're ready for something new, a chance to be challenged, to learn, and grow, we want to hear from you! Come join us in bringing the happiness of PlayStation to our fans.
+
+
+
+\#LI\-AT1
+
+
+**Equal Opportunity Statement:**
+
+
+*Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.*
+
+
+*We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.*
+
+
+*PlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.*",,https://www.indeed.com/cmp/Playstation,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8d45ceadcc4dbdfca102d6444a7b40fb,http://www.playstation.com/en-gb/corporate/playstation-careers,"San Mateo, CA","5,001 to 10,000",more than $10B (USD),"Talented colleagues, new opportunities, and exciting challenges! That’s why we come into work every day. Come join us, Greatness Awaits You!",,,,,,
+in-4e786013b2dc28d3,indeed,https://www.indeed.com/viewjob?jk=4e786013b2dc28d3,https://careers.google.com/jobs/results/125522157231841990-software-engineer-iii/,"Software Engineer III, Google Cloud Software Development Kit",Google,"Sunnyvale, CA, US",2025-04-24,fulltime,,,,,,False,,,,,"**Note:** By applying to this position you will have an opportunity to share your preferred working location from the following: Sunnyvale, CA, USA; Kirkland, WA, USA; Seattle, WA, USA.
+  
+  
+
+**Minimum qualifications:**  
+
+* Bachelor’s degree or equivalent practical experience.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with Cloud Application Programming Interface (APIs) and API Development.
+* 2 years of experience PHP, Ruby, or .NET
+
+
+**Preferred qualifications:**  
+
+* Master's degree or PhD in Computer Science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* Experience developing accessible technologies.
+* Experience in code and system health, diagnosis and resolution, and software test engineering.
+
+
+About the job
+  
+  
+
+Google's software engineers develop the next\-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large\-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast\-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full\-stack as we continue to push technology forward.
+  
+In this role, you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.
+  
+Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise\-grade solutions that leverage Google’s cutting\-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+  
+The US base salary range for this full\-time position is $141,000\-$202,000 \+ bonus \+ equity \+ benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+  
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more aboutbenefits at Google.
+  
+  
+
+Responsibilities
+  
+  
+
+* Write product or system development code.
+* Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies.
+* Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).
+* Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
+* Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See alsoGoogle's EEO Policy andEEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",,https://www.indeed.com/cmp/Google,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fff4be3829cee39e477a518f55475f44,http://goo.gle/3ygdkgv,"Mountain View, CA","10,000+",more than $10B (USD),Our mission is to organize the world’s information and make it universally accessible and useful. ,,,,,,
+in-137e694611b6e28a,indeed,https://www.indeed.com/viewjob?jk=137e694611b6e28a,https://careers.google.com/jobs/results/81333635315049158-software-engineer-iii/,"Software Engineer III, Mobile, iOS, Geo",Google,"Mountain View, CA, US",2025-04-24,fulltime,,,,,,False,,,,,"**Minimum qualifications:**  
+
+* Bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in Swift or Objective\-C, or 1 year of experience with an advanced degree.
+* 2 years of experience with data structures or algorithms.
+* 2 years of experience with iOS application development.
+
+
+**Preferred qualifications:**  
+
+* Master's degree or PhD in Computer Science or a related technical field.
+* Experience with UI Development, particularly in Swift and Swift UI.
+* Experience developing accessible technologies.
+* Experience in Prior GenAI development.
+
+
+About the job
+  
+  
+
+Google's software engineers develop the next\-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large\-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast\-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full\-stack as we continue to push technology forward.
+  
+The Geo team is focused on building the most accurate, comprehensive, and useful maps for our users, through products like Maps, Earth, Street View, Google Maps Platform, and more. Every month, more than a billion people rely on Maps services to explore the world and navigate their daily lives.The Geo team also enables developers to use the power of Google Maps platforms to enhance their apps and websites. As they plot a course for the future of mapping, they are solving complex computer science problems, designing beautiful and intuitive product experiences, and improving our understanding of the real world.
+  
+The US base salary range for this full\-time position is $141,000\-$202,000 \+ bonus \+ equity \+ benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+  
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more aboutbenefits at Google.
+  
+  
+
+Responsibilities
+  
+  
+
+* Write product or system development code.
+* Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies.
+* Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).
+* Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
+* Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See alsoGoogle's EEO Policy andEEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",,https://www.indeed.com/cmp/Google,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fff4be3829cee39e477a518f55475f44,http://goo.gle/3ygdkgv,"Mountain View, CA","10,000+",more than $10B (USD),Our mission is to organize the world’s information and make it universally accessible and useful. ,,,,,,
+in-fbdf7bc3c1ac7abf,indeed,https://www.indeed.com/viewjob?jk=fbdf7bc3c1ac7abf,https://careers.google.com/jobs/results/130332408934212294-senior-software-engineer/,"Senior Software Engineer, Recommendations, Ads",Google,"Mountain View, CA, US",2025-04-24,fulltime,,,,,,False,,,,,"**Minimum qualifications:**  
+
+* Bachelor's degree or equivalent practical experience.
+* 5 years of experience with software development in one or more programming languages, and with data structures/algorithms.
+* 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+* 3 years of experience building and deploying recommendation systems models (retrieval, prediction, ranking, personalization, search quality, embedding) in production and experience building architecture.
+* Experience with machine learning and deep learning principles.
+
+
+**Preferred qualifications:**  
+
+* Master's degree or PhD in Computer Science or related technical field.
+* Experience collecting, managing, and synthesizing large data sets and information from sources, statistical modeling, data mining, and data analysis.
+* Experience developing accessible technologies.
+
+
+About the job
+  
+  
+
+Google's software engineers develop the next\-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large\-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast\-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full\-stack as we continue to push technology forward.The US base salary range for this full\-time position is $166,000\-$244,000 \+ bonus \+ equity \+ benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more aboutbenefits at Google.
+  
+Responsibilities
+  
+  
+
+* Write and test product or system development code.
+* Collaborate with peers and stakeholders through design and code reviews to ensure best practices amongst available technologies (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).
+* Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
+* Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See alsoGoogle's EEO Policy andEEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",,https://www.indeed.com/cmp/Google,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fff4be3829cee39e477a518f55475f44,http://goo.gle/3ygdkgv,"Mountain View, CA","10,000+",more than $10B (USD),Our mission is to organize the world’s information and make it universally accessible and useful. ,,,,,,
+in-bf6de3e6b24ed655,indeed,https://www.indeed.com/viewjob?jk=bf6de3e6b24ed655,https://careers.google.com/jobs/results/120026688342893254-software-engineer-iii/,"Software Engineer III, Google Cloud Global Networking",Google,"Sunnyvale, CA, US",2025-04-24,fulltime,,,,,,False,,,,,"**Note:** By applying to this position you will have an opportunity to share your preferred working location from the following: Atlanta, GA, USA; Sunnyvale, CA, USA.
+  
+  
+
+**Minimum qualifications:**  
+
+* Bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+
+
+**Preferred qualifications:**  
+
+* Master's degree or PhD in Computer Science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* Experience developing accessible technologies.
+* Proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+
+About the job
+  
+  
+
+Google's software engineers develop the next\-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large\-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast\-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full\-stack as we continue to push technology forward.
+  
+With your technical expertise you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.
+  
+Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google's product portfolio possible. We're proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them. We keep our networks up and running, ensuring our users have the best and fastest experience possible.Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise\-grade solutions that leverage Google’s cutting\-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+  
+The US base salary range for this full\-time position is $141,000\-$202,000 \+ bonus \+ equity \+ benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+  
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more aboutbenefits at Google.
+  
+  
+
+Responsibilities
+  
+  
+
+* Write product or system development code.
+* Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies.
+* Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).
+* Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
+* Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See alsoGoogle's EEO Policy andEEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing ourAccommodations for Applicants form.",,https://www.indeed.com/cmp/Google,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fff4be3829cee39e477a518f55475f44,http://goo.gle/3ygdkgv,"Mountain View, CA","10,000+",more than $10B (USD),Our mission is to organize the world’s information and make it universally accessible and useful. ,,,,,,
+in-16ca5ca76930764b,indeed,https://www.indeed.com/viewjob?jk=16ca5ca76930764b,https://careers.synopsys.com/job/-/-/44408/80400107072,Infrastructure Software Development Internship,Synopsys,"Sunnyvale, CA, US",2025-04-23,"fulltime, internship",direct_data,hourly,34.0,48.0,USD,False,,,,,"**Job Title**: Infrastructure Software Development Internship
+
+ **We Are:** Drive technology innovations that shape the way we live and connect. Our technology drives the Era of Pervasive Intelligence, where smart tech and AI are seamlessly woven into daily life. From self\-driving cars and health\-monitoring smartwatches to renewable energy systems that efficiently distribute clean power, Synopsys creates high\-performance silicon chips that help build a healthier, safer, and more sustainable world.
+
+ **Internship Experience:** At Synopsys, interns dive into real\-world projects, gaining hands\-on experience while collaborating with our passionate teams worldwide—and having fun in the process! You'll have the freedom to share your ideas, unleash your creativity, and explore your interests. This is your opportunity to bring your solutions to life and work with cutting\-edge technology that shapes not only the future of innovation but also your own career path. Join us and start shaping your future today!
+
+ **Mission Statement:** Our mission is to fuel today’s innovations and spark tomorrow’s creativity. Together, we embrace a growth mindset, empower one another, and collaborate to achieve our shared goals. Every day, we live by our values of Integrity, Excellence, Leadership, and Passion, fostering an inclusive culture where everyone can thrive—both at work and beyond.
+
+ **Key Program Facts:**
+
+* **Program Length:** 12 weeks
+* **Location:** Sunnyvale, CA, USA
+* **Working Model:** In\-office
+* **Full\-Time/Part\-Time:** Full\-Time
+* **Start Date:** May/June 2025
+
+ **What You’ll Be Doing:**
+
+* Researching and developing infrastructure\-as\-a\-service solutions that operate in hybrid (datacenter and public cloud) environments
+* Integrating best practices tools, frameworks and processes to enable high quality software via continuous integration and delivery.
+* Delivering high\-quality production software that meets customer needs.
+* Collaborating with a team developing software tools used by all Synopsys employees.
+
+ **What You’ll Need:**
+
+* Currently pursuing a Bachelor’s degree in Electronic Engineering, Computer Science, or a related field in the penultimate year of study.
+* Strong understanding of data structures and algorithms.
+* Knowledge of machine learning techniques and applications.
+* Passion for technology and innovation.
+* Excellent problem\-solving and analytical skills.
+
+ **Salary Information:**
+
+
+The base salary range across the U.S. for this role is between $34\.00\-$48\.00 per hour. In addition, this role may be eligible for an annual bonus, equity, and other discretionary bonuses. Synopsys offers comprehensive wealth, wellness, and financial benefits as part of a competitive rewards package. The actual compensation offered will be based on a number of job\-related factors, including location, skills, experience, and education. Your recruiter can share more specific details upon request.",,https://www.indeed.com/cmp/Synopsys,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7531f895f1e40aa308767f32255b6a69,https://www.synopsys.com/,"Mountain View, CA","10,000+",Decline to state,"Synopsys is a valued partner for silicon to systems design across a wide range of vertical markets, empowering technology innovators with the industry’s most comprehensive and trusted solutions.",,,,,,
